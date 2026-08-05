@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="theme-color" content="#15d6ca" />
+  <title>Préstamos Flash · Estado de cuenta</title>
+  <link rel="icon" href="assets/favicon.png" type="image/png" />
+  <link rel="apple-touch-icon" href="assets/icon.png" />
+  <link rel="stylesheet" href="styles.css?v=20260805-2" />
+</head>
+<body>
+
+  <div class="money-rain" aria-hidden="true">
+    <span>$</span><span>$</span><span>$</span><span>$</span><span>$</span>
+    <span>$</span><span>$</span><span>$</span><span>$</span><span>$</span>
+    <span>$</span><span>$</span><span>$</span><span>$</span><span>$</span>
+    <span>$</span><span>$</span><span>$</span>
+  </div>
+  <div class="bg-orb orb-a"></div>
+  <div class="bg-orb orb-b"></div>
+  <main class="portal-shell">
+    <section class="hero-panel" aria-labelledby="portalTitle">
+      <div class="brand-row">
+        <img src="assets/icon.png" class="brand-icon" alt="Préstamos Flash" />
+        <div>
+          <p class="eyebrow">Portal privado</p>
+          <h1 id="portalTitle">Préstamos Flash</h1>
+          <p class="brand-subtitle">Tu crédito al instante</p>
+        </div>
+      </div>
+      <div class="hero-copy">
+        <span class="pill soft">Consulta por DNI/CUIL + código</span>
+        <h2>Consultá tus cuotas, saldo y vencimientos.</h2>
+        <p>
+          Ingresá tu DNI solo o tu CUIL/CUIT completo para ver el estado del préstamo, cuotas pagadas,
+          próximo vencimiento y saldo pendiente.
+        </p>
+      </div>
+      <div class="traffic-card">
+        <div class="traffic-title">Semáforo de estado</div>
+        <div class="traffic-list">
+          <span><i class="dot ok"></i> Al día</span>
+          <span><i class="dot warn"></i> Vence hoy / pronto</span>
+          <span><i class="dot bad"></i> Atrasado</span>
+        </div>
+      </div>
+    </section>
+    <section class="access-panel" aria-label="Acceso al estado de cuenta">
+      <div id="loginCard" class="card login-card">
+        <div class="section-head compact">
+          <div>
+            <p class="eyebrow">Acceso</p>
+            <h2>Ver mi estado</h2>
+          </div>
+          <div class="lock-badge">Privado</div>
+        </div>
+        <form id="accessForm" class="form-grid" autocomplete="off">
+          <label>
+            <span>DNI / CUIT</span>
+            <input id="dniInput" inputmode="numeric" placeholder="Ej: 12345678" required />
+          </label>
+          <label>
+            <span>Código portal</span>
+            <input id="codeInput" inputmode="numeric" placeholder="Ej: 2603" required />
+          </label>
+          <button class="btn primary" type="submit">Consultar estado</button>
+          <button class="btn ghost" type="button" id="clearBtn">Limpiar</button>
+        </form>
+        <div id="loginMessage" class="message hidden" role="status"></div>
+        <p class="fine-print">
+          Podés ingresar el DNI sin puntos o el CUIL/CUIT completo. El código portal es el número de 4 cifras asignado al cliente.
+        </p>
+      </div>
+      <div id="accountCard" class="account hidden">
+        <div class="account-top card">
+          <button id="backBtn" class="btn ghost small" type="button">← Nueva consulta</button>
+          <div class="client-title-row">
+            <div>
+              <p class="eyebrow">Estado de cuenta</p>
+              <h2 id="clientName">Cliente</h2>
+              <p id="clientMeta" class="muted"></p>
+            </div>
+            <div id="statusBadge" class="status-badge neutral">Estado</div>
+          </div>
+        </div>
+        <div class="summary-grid">
+          <article class="metric card">
+            <span>Total</span>
+            <strong id="totalAmount">$0</strong>
+            <small>Total pactado</small>
+          </article>
+          <article class="metric card">
+            <span>Pagado</span>
+            <strong id="paidAmount">$0</strong>
+            <small>Cuotas abonadas</small>
+          </article>
+          <article class="metric card emphasis">
+            <span>Pendiente</span>
+            <strong id="pendingAmount">$0</strong>
+            <small>Saldo base informado</small>
+          </article>
+          <article class="metric card">
+            <span>Próximo vencimiento</span>
+            <strong id="nextDue">-</strong>
+            <small id="nextDueLabel">Sin cuotas pendientes</small>
+          </article>
+        </div>
+        <section class="card progress-card">
+          <div class="progress-head">
+            <div>
+              <h3>Avance de pago</h3>
+              <p id="planLabel" class="muted">Plan</p>
+            </div>
+            <strong id="progressPct">0%</strong>
+          </div>
+          <div class="progress-bar"><span id="progressFill"></span></div>
+        </section>
+        <section class="card installments-card">
+          <div class="section-head">
+            <div>
+              <h3>Detalle de cuotas</h3>
+              <p class="muted">Estado calculado por cuota según vencimiento y saldo.</p>
+            </div>
+            <div id="updatedAt" class="updated">Actualizado: -</div>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Cuota</th>
+                  <th>Vencimiento</th>
+                  <th>Importe</th>
+                  <th>Pagado</th>
+                  <th>Saldo</th>
+                  <th>Estado</th>
+                </tr>
+              </thead>
+              <tbody id="installmentsBody"></tbody>
+            </table>
+          </div>
+        </section>
+        <section class="card note-card">
+          <h3>Importante</h3>
+          <p>
+            Este portal muestra el saldo base publicado en el último archivo de datos. Si existe mora,
+            condonación o ajuste manual posterior, confirmalo directamente con Préstamos Flash.
+          </p>
+          <a id="whatsappBtn" class="btn whatsapp hidden" href="#" target="_blank" rel="noopener">Consultar por WhatsApp</a>
+        </section>
+      </div>
+    </section>
+  </main>
+  <footer class="footer">
+    <span id="footerText">Información actualizada según el último respaldo publicado.</span>
+  </footer>
+
+  <script src="config.js?v=20260804-2"></script>
+  <script src="app.js?v=20260805-1"></script>
+</body>
+</html>

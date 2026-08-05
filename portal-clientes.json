@@ -1,0 +1,1460 @@
+[
+  {
+    "dni": "27-35143220-4",
+    "codigo": "2878",
+    "nombre": "cintia alvarez",
+    "total": 187500,
+    "pagado": 0,
+    "pendiente": 187500,
+    "vencimiento": "11/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 93750,
+    "mora": 0,
+    "periodLabel": "2 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_msf3ozyv_xe8on",
+        "number": 1,
+        "dueDate": "2026-08-11",
+        "amount": 93750,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf3ozyw_jf8m0",
+        "number": 2,
+        "dueDate": "2026-08-18",
+        "amount": 93750,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "20-42280802-8",
+    "codigo": "3073",
+    "nombre": "lucas cuenca",
+    "total": 320000,
+    "pagado": 0,
+    "pendiente": 320000,
+    "vencimiento": "11/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 40000,
+    "mora": 0,
+    "periodLabel": "8 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_msf36ry7_i8opb",
+        "number": 1,
+        "dueDate": "2026-08-11",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf36ry7_2qekz",
+        "number": 2,
+        "dueDate": "2026-08-18",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf36ry7_z6fuh",
+        "number": 3,
+        "dueDate": "2026-08-25",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf36ry7_z88hm",
+        "number": 4,
+        "dueDate": "2026-09-01",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf36ry7_05xtv",
+        "number": 5,
+        "dueDate": "2026-09-08",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf36ry7_2x9y9",
+        "number": 6,
+        "dueDate": "2026-09-15",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf36ry7_0uggq",
+        "number": 7,
+        "dueDate": "2026-09-22",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf36ry7_itnin",
+        "number": 8,
+        "dueDate": "2026-09-29",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-44629456-9",
+    "codigo": "6717",
+    "nombre": "florencia papini",
+    "total": 140000,
+    "pagado": 0,
+    "pendiente": 140000,
+    "vencimiento": "11/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 35000,
+    "mora": 0,
+    "periodLabel": "4 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_msf2pnig_t0cuq",
+        "number": 1,
+        "dueDate": "2026-08-11",
+        "amount": 35000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf2pnig_3agwv",
+        "number": 2,
+        "dueDate": "2026-08-18",
+        "amount": 35000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf2pnig_9e4nd",
+        "number": 3,
+        "dueDate": "2026-08-25",
+        "amount": 35000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf2pnig_3ldud",
+        "number": 4,
+        "dueDate": "2026-09-01",
+        "amount": 35000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-33613936-3",
+    "codigo": "8282",
+    "nombre": "erika montania",
+    "total": 210000,
+    "pagado": 0,
+    "pendiente": 210000,
+    "vencimiento": "11/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 52500,
+    "mora": 0,
+    "periodLabel": "4 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_msf1znxu_2kusn",
+        "number": 1,
+        "dueDate": "2026-08-11",
+        "amount": 52500,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf1znxu_9s0xf",
+        "number": 2,
+        "dueDate": "2026-08-18",
+        "amount": 52500,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf1znxu_5zcww",
+        "number": 3,
+        "dueDate": "2026-08-25",
+        "amount": 52500,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msf1znxu_v0ui9",
+        "number": 4,
+        "dueDate": "2026-09-01",
+        "amount": 52500,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-37954222-6",
+    "codigo": "6914",
+    "nombre": "sol díaz",
+    "total": 625000,
+    "pagado": 0,
+    "pendiente": 625000,
+    "vencimiento": "10/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 312500,
+    "mora": 0,
+    "periodLabel": "2 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_msduhku2_me5el",
+        "number": 1,
+        "dueDate": "2026-08-10",
+        "amount": 312500,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msduhku2_38slm",
+        "number": 2,
+        "dueDate": "2026-08-17",
+        "amount": 312500,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "23-24198693-4",
+    "codigo": "5095",
+    "nombre": "celina garcía",
+    "total": 320000,
+    "pagado": 0,
+    "pendiente": 320000,
+    "vencimiento": "9/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 40000,
+    "mora": 0,
+    "periodLabel": "8 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_mscemzik_1kh57",
+        "number": 1,
+        "dueDate": "2026-08-09",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mscemzil_9ft7k",
+        "number": 2,
+        "dueDate": "2026-08-16",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mscemzil_bdpmb",
+        "number": 3,
+        "dueDate": "2026-08-23",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mscemzil_uv29m",
+        "number": 4,
+        "dueDate": "2026-08-30",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mscemzil_y068a",
+        "number": 5,
+        "dueDate": "2026-09-06",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mscemzil_ik2q9",
+        "number": 6,
+        "dueDate": "2026-09-13",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mscemzil_ibksw",
+        "number": 7,
+        "dueDate": "2026-09-20",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mscemzil_yn4bq",
+        "number": 8,
+        "dueDate": "2026-09-27",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "20-95320456-9",
+    "codigo": "3652",
+    "nombre": "khaty baez",
+    "total": 375000,
+    "pagado": 187500,
+    "pendiente": 187500,
+    "vencimiento": "9/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 187500,
+    "mora": 0,
+    "periodLabel": "2 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_mscei6ae_nqimf",
+        "number": 1,
+        "dueDate": "2026-08-02",
+        "amount": 187500,
+        "paidAmount": 187500,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mscei6ae_yefkp",
+        "number": 2,
+        "dueDate": "2026-08-09",
+        "amount": 187500,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "20-43732503-1",
+    "codigo": "8128",
+    "nombre": "agustin acosta",
+    "total": 210000,
+    "pagado": 0,
+    "pendiente": 210000,
+    "vencimiento": "8/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 52500,
+    "mora": 0,
+    "periodLabel": "4 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_msawy89r_2bqc1",
+        "number": 1,
+        "dueDate": "2026-08-08",
+        "amount": 52500,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msawy89r_5szse",
+        "number": 2,
+        "dueDate": "2026-08-15",
+        "amount": 52500,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msawy89r_4jwil",
+        "number": 3,
+        "dueDate": "2026-08-22",
+        "amount": 52500,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msawy89r_79ag6",
+        "number": 4,
+        "dueDate": "2026-08-29",
+        "amount": 52500,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-44228889-0",
+    "codigo": "9200",
+    "nombre": "micaela andrade",
+    "total": 280000,
+    "pagado": 0,
+    "pendiente": 280000,
+    "vencimiento": "8/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 70000,
+    "mora": 0,
+    "periodLabel": "4 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_msavur6r_plmiw",
+        "number": 1,
+        "dueDate": "2026-08-08",
+        "amount": 70000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msavur6r_3idg5",
+        "number": 2,
+        "dueDate": "2026-08-15",
+        "amount": 70000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msavur6r_mskd9",
+        "number": 3,
+        "dueDate": "2026-08-22",
+        "amount": 70000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msavur6r_q9r18",
+        "number": 4,
+        "dueDate": "2026-08-29",
+        "amount": 70000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-27290580-6",
+    "codigo": "7879",
+    "nombre": "claudia romagnoli",
+    "total": 140000,
+    "pagado": 0,
+    "pendiente": 140000,
+    "vencimiento": "8/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 35000,
+    "mora": 0,
+    "periodLabel": "4 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_msajm9ra_z6j6u",
+        "number": 1,
+        "dueDate": "2026-08-08",
+        "amount": 35000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msajm9ra_vdq8b",
+        "number": 2,
+        "dueDate": "2026-08-15",
+        "amount": 35000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msajm9ra_8wxrq",
+        "number": 3,
+        "dueDate": "2026-08-22",
+        "amount": 35000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_msajm9rb_q6ta7",
+        "number": 4,
+        "dueDate": "2026-08-29",
+        "amount": 35000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-40451326-0",
+    "codigo": "2825",
+    "nombre": "rocio zarza",
+    "total": 400000,
+    "pagado": 0,
+    "pendiente": 400000,
+    "vencimiento": "5/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 50000,
+    "mora": 0,
+    "periodLabel": "8 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_ms6krkj3_t74d7",
+        "number": 1,
+        "dueDate": "2026-08-05",
+        "amount": 50000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_ms6krkj3_tw123",
+        "number": 2,
+        "dueDate": "2026-08-12",
+        "amount": 50000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_ms6krkj3_k3wag",
+        "number": 3,
+        "dueDate": "2026-08-19",
+        "amount": 50000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_ms6krkj3_l0m3x",
+        "number": 4,
+        "dueDate": "2026-08-26",
+        "amount": 50000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_ms6krkj3_c5xo7",
+        "number": 5,
+        "dueDate": "2026-09-02",
+        "amount": 50000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_ms6krkj3_cek2o",
+        "number": 6,
+        "dueDate": "2026-09-09",
+        "amount": 50000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_ms6krkj3_yt5m6",
+        "number": 7,
+        "dueDate": "2026-09-16",
+        "amount": 50000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_ms6krkj3_vv2sk",
+        "number": 8,
+        "dueDate": "2026-09-23",
+        "amount": 50000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-35733265-1",
+    "codigo": "8914",
+    "nombre": "rosaura cardozo",
+    "total": 250000,
+    "pagado": 0,
+    "pendiente": 250000,
+    "vencimiento": "5/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 125000,
+    "mora": 0,
+    "periodLabel": "2 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_ms6fubte_6kt9h",
+        "number": 1,
+        "dueDate": "2026-08-05",
+        "amount": 125000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_ms6fubte_sqqnv",
+        "number": 2,
+        "dueDate": "2026-08-12",
+        "amount": 125000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-35617204-9",
+    "codigo": "2771",
+    "nombre": "noelia sanchez",
+    "total": 325000,
+    "pagado": 162500,
+    "pendiente": 162500,
+    "vencimiento": "7/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 162500,
+    "mora": 0,
+    "periodLabel": "2 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_mrz4lcjd_hxsx2",
+        "number": 1,
+        "dueDate": "2026-07-31",
+        "amount": 162500,
+        "paidAmount": 162500,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrz4lcjd_3rm1n",
+        "number": 2,
+        "dueDate": "2026-08-07",
+        "amount": 162500,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-2395069-8",
+    "codigo": "8899",
+    "nombre": "analia romagnoli",
+    "total": 480000,
+    "pagado": 60000,
+    "pendiente": 420000,
+    "vencimiento": "6/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 60000,
+    "mora": 0,
+    "periodLabel": "8 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_mrwy0fai_f4com",
+        "number": 1,
+        "dueDate": "2026-07-30",
+        "amount": 60000,
+        "paidAmount": 60000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrwy0fai_kko4f",
+        "number": 2,
+        "dueDate": "2026-08-06",
+        "amount": 60000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrwy0fai_ly36k",
+        "number": 3,
+        "dueDate": "2026-08-13",
+        "amount": 60000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrwy0fai_qh50k",
+        "number": 4,
+        "dueDate": "2026-08-20",
+        "amount": 60000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrwy0fai_dop1f",
+        "number": 5,
+        "dueDate": "2026-08-27",
+        "amount": 60000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrwy0fai_j4dyw",
+        "number": 6,
+        "dueDate": "2026-09-03",
+        "amount": 60000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrwy0fai_36ttf",
+        "number": 7,
+        "dueDate": "2026-09-10",
+        "amount": 60000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrwy0fai_e6kib",
+        "number": 8,
+        "dueDate": "2026-09-17",
+        "amount": 60000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "20-40555183-8",
+    "codigo": "2566",
+    "nombre": "brandon sequeira",
+    "total": 700000,
+    "pagado": 175000,
+    "pendiente": 525000,
+    "vencimiento": "8/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 175000,
+    "mora": 0,
+    "periodLabel": "4 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_mrwdsu6u_pjbn7",
+        "number": 1,
+        "dueDate": "2026-08-01",
+        "amount": 175000,
+        "paidAmount": 175000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 1000,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrwdsu6u_e9wbi",
+        "number": 2,
+        "dueDate": "2026-08-08",
+        "amount": 175000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrwdsu6u_7cl04",
+        "number": 3,
+        "dueDate": "2026-08-15",
+        "amount": 175000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrwdsu6u_5nf1u",
+        "number": 4,
+        "dueDate": "2026-08-22",
+        "amount": 175000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-42598321-6",
+    "codigo": "8861",
+    "nombre": "merlina ovejero",
+    "total": 140000,
+    "pagado": 70000,
+    "pendiente": 70000,
+    "vencimiento": "8/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 35000,
+    "mora": 0,
+    "periodLabel": "4 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_mrr5xej1_o5t0a",
+        "number": 1,
+        "dueDate": "2026-07-25",
+        "amount": 35000,
+        "paidAmount": 35000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrr5xej1_namiw",
+        "number": 2,
+        "dueDate": "2026-08-01",
+        "amount": 35000,
+        "paidAmount": 35000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrr5xej1_z5fqi",
+        "number": 3,
+        "dueDate": "2026-08-08",
+        "amount": 35000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrr5xej1_uaguo",
+        "number": 4,
+        "dueDate": "2026-08-15",
+        "amount": 35000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-40118155-0",
+    "codigo": "8273",
+    "nombre": "vanesa papini",
+    "total": 140000,
+    "pagado": 70000,
+    "pendiente": 70000,
+    "vencimiento": "6/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 35000,
+    "mora": 0,
+    "periodLabel": "4 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_mrpa2fxa_8ggms",
+        "number": 1,
+        "dueDate": "2026-07-23",
+        "amount": 35000,
+        "paidAmount": 35000,
+        "latePaidAmount": 1000,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrpa2fxa_s6ivs",
+        "number": 2,
+        "dueDate": "2026-07-30",
+        "amount": 35000,
+        "paidAmount": 35000,
+        "latePaidAmount": 3000,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrpa2fxa_cf329",
+        "number": 3,
+        "dueDate": "2026-08-06",
+        "amount": 35000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrpa2fxa_i2urd",
+        "number": 4,
+        "dueDate": "2026-08-13",
+        "amount": 35000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-35777285-6",
+    "codigo": "7878",
+    "nombre": "rocio ramirez",
+    "total": 420000,
+    "pagado": 315000,
+    "pendiente": 105000,
+    "vencimiento": "11/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 105000,
+    "mora": 0,
+    "periodLabel": "4 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_mrkyua8c_zjzqq",
+        "number": 1,
+        "dueDate": "2026-07-21",
+        "amount": 105000,
+        "paidAmount": 105000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrkyua8c_2gjnd",
+        "number": 2,
+        "dueDate": "2026-07-28",
+        "amount": 105000,
+        "paidAmount": 105000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrkyua8c_x1cvx",
+        "number": 3,
+        "dueDate": "2026-08-04",
+        "amount": 105000,
+        "paidAmount": 105000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrkyua8c_oqdcq",
+        "number": 4,
+        "dueDate": "2026-08-11",
+        "amount": 105000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-33613936-3",
+    "codigo": "8282",
+    "nombre": "erika montania",
+    "total": 800000,
+    "pagado": 300000,
+    "pendiente": 500000,
+    "vencimiento": "10/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 100000,
+    "mora": 0,
+    "periodLabel": "8 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_mrjlau56_brv11",
+        "number": 1,
+        "dueDate": "2026-07-20",
+        "amount": 100000,
+        "paidAmount": 100000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrjlau56_gi6hz",
+        "number": 2,
+        "dueDate": "2026-07-27",
+        "amount": 100000,
+        "paidAmount": 100000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrjlau56_cyhxs",
+        "number": 3,
+        "dueDate": "2026-08-03",
+        "amount": 100000,
+        "paidAmount": 100000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrjlau56_8k28i",
+        "number": 4,
+        "dueDate": "2026-08-10",
+        "amount": 100000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrjlau56_jed2z",
+        "number": 5,
+        "dueDate": "2026-08-17",
+        "amount": 100000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrjlau56_epysu",
+        "number": 6,
+        "dueDate": "2026-08-24",
+        "amount": 100000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrjlau56_5ow7g",
+        "number": 7,
+        "dueDate": "2026-08-31",
+        "amount": 100000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrjlau56_srois",
+        "number": 8,
+        "dueDate": "2026-09-07",
+        "amount": 100000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-35733265-1",
+    "codigo": "8914",
+    "nombre": "rosaura cardozo",
+    "total": 320000,
+    "pagado": 120000,
+    "pendiente": 200000,
+    "vencimiento": "9/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 40000,
+    "mora": 0,
+    "periodLabel": "8 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_mrif2zfj_pimoy",
+        "number": 1,
+        "dueDate": "2026-07-19",
+        "amount": 40000,
+        "paidAmount": 40000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrif2zfj_799bq",
+        "number": 2,
+        "dueDate": "2026-07-26",
+        "amount": 40000,
+        "paidAmount": 40000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrif2zfj_xqtdm",
+        "number": 3,
+        "dueDate": "2026-08-02",
+        "amount": 40000,
+        "paidAmount": 40000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 1000,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mrif2zfj_rznoj",
+        "number": 4,
+        "dueDate": "2026-08-09",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrif2zfj_8aoj0",
+        "number": 5,
+        "dueDate": "2026-08-16",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrif2zfj_9b6kw",
+        "number": 6,
+        "dueDate": "2026-08-23",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrif2zfj_hmu6d",
+        "number": 7,
+        "dueDate": "2026-08-30",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mrif2zfj_99qlq",
+        "number": 8,
+        "dueDate": "2026-09-06",
+        "amount": 40000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  },
+  {
+    "dni": "27-36555746-8",
+    "codigo": "2520",
+    "nombre": "noelia galeano",
+    "total": 240000,
+    "pagado": 120000,
+    "pendiente": 120000,
+    "vencimiento": "9/8/2026",
+    "estado": "activo",
+    "cuotaLabel": "Cuota semanal",
+    "cuotaMonto": 30000,
+    "mora": 0,
+    "periodLabel": "8 cuotas semanales",
+    "installments": [
+      {
+        "id": "CUO_mr5ar8tf_dccoy",
+        "number": 1,
+        "dueDate": "2026-07-12",
+        "amount": 30000,
+        "paidAmount": 30000,
+        "latePaidAmount": 1000,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mr5ar8tf_guibp",
+        "number": 2,
+        "dueDate": "2026-07-19",
+        "amount": 30000,
+        "paidAmount": 30000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 1000,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mr5ar8tf_y9yjv",
+        "number": 3,
+        "dueDate": "2026-07-26",
+        "amount": 30000,
+        "paidAmount": 30000,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mr5ar8tf_thv50",
+        "number": 4,
+        "dueDate": "2026-08-02",
+        "amount": 30000,
+        "paidAmount": 30000,
+        "latePaidAmount": 1000,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pagado"
+      },
+      {
+        "id": "CUO_mr5ar8tf_0lahc",
+        "number": 5,
+        "dueDate": "2026-08-09",
+        "amount": 30000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mr5ar8tf_b3v9f",
+        "number": 6,
+        "dueDate": "2026-08-16",
+        "amount": 30000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mr5ar8tf_99gy1",
+        "number": 7,
+        "dueDate": "2026-08-23",
+        "amount": 30000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      },
+      {
+        "id": "CUO_mr5ar8tf_acue9",
+        "number": 8,
+        "dueDate": "2026-08-30",
+        "amount": 30000,
+        "paidAmount": 0,
+        "latePaidAmount": 0,
+        "lateCondonedAmount": 0,
+        "discountAmount": 0,
+        "status": "pendiente"
+      }
+    ]
+  }
+]
